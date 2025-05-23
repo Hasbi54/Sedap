@@ -1,0 +1,37 @@
+[
+  {
+    "kode_produk": "PRD1",
+    "nama_produk": "Nasi Goreng Spesial",
+    "harga": 25000,
+    "stok": 10,
+    "image": "https://img.freepik.com/free-photo/grilled-shrimp-salad_181624-959.jpg?ga=GA1.1.1192716806.1747356053&semt=ais_hybrid&w=740"
+  },
+  {
+    "kode_produk": "PRD2",
+    "nama_produk": "Ayam Geprek",
+    "harga": 22000,
+    "stok": 0,
+    "image": "https://img.freepik.com/free-photo/fried-chicken-french-fries-black-cement-floor_1150-28542.jpg?ga=GA1.1.1192716806.1747356053&semt=ais_hybrid&w=740"
+  },
+  {
+    "kode_produk": "PRD3",
+    "nama_produk": "Sate Ayam",
+    "harga": 30000,
+    "stok": 5,
+    "image": "https://img.freepik.com/free-photo/mixed-grill-with-seasoned-mala-sichuan-pepper-chinese-spices_1150-26492.jpg?ga=GA1.1.1192716806.1747356053&semt=ais_hybrid&w=740"
+  },
+  {
+    "kode_produk": "PRD4",
+    "nama_produk": "Es Teh Manis",
+    "harga": 5000,
+    "stok": 25,
+    "image": "https://img.freepik.com/free-photo/glass-cola_1101-682.jpg?ga=GA1.1.1192716806.1747356053&semt=ais_hybrid&w=740"
+  },
+  {
+    "kode_produk": "PRD5",
+    "nama_produk": "Bakso Mercon",
+    "harga": 27000,
+    "stok": 8,
+    "image": "https://img.freepik.com/free-photo/top-view-delicious-bakso-bowl-composition_23-2148967906.jpg?ga=GA1.1.1192716806.1747356053&semt=ais_hybrid&w=740"
+  }
+]

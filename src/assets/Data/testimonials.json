@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "avatar": "https://avatar-placeholder.iran.liara.run/50",
+    "name": "John Doe",
+    "review": "Produk Sedap sangat enak dan berkualitas!"
+  },
+  {
+    "id": 2,
+    "avatar": "https://avatar-placeholder.iran.liara.run/51",
+    "name": "Juna Rorimpandey",
+    "review": "Pengiriman cepat, pelayanan ramah!"
+  },
+  {
+    "id": 3,
+    "avatar": "https://avatar-placeholder.iran.liara.run/52",
+    "name": "Arnold Poernomo",
+    "review": "Harga bersaing dan produk selalu fresh."
+  },
+  {
+    "id": 4,
+    "avatar": "https://avatar-placeholder.iran.liara.run/53",
+    "name": "Renatta Moeloek",
+    "review": "Website mudah digunakan dan informatif."
+  },
+  {
+    "id": 5,
+    "avatar": "https://avatar-placeholder.iran.liara.run/54",
+    "name": "Rinrin Marinka",
+    "review": "Rekomendasi untuk semua pecinta makanan enak!"
+  }
+]
