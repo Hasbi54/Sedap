@@ -7,7 +7,6 @@ import error401 from './assets/errors/error-401.svg';
 import error403 from './assets/errors/error-403.svg';
 import Loading from './components/Loading';
 
-
 // Layouts
 const MainLayot = lazy(() => import('./layouts/MainLayout'));  // TIDAK DIUBAH
 const AuthLayout = lazy(() => import('./layouts/AuthLayout'));
@@ -22,6 +21,8 @@ const Register = lazy(() => import('./pages/auth/Register'));
 const Forgot = lazy(() => import('./pages/auth/Forgot'));
 const ErrorPage = lazy(() => import('./pages/ErrorPage'));
 const UserList = lazy(() => import('./pages/User'));
+const Products = lazy(() => import('./pages/produks'));
+const ProductDetail = lazy(() => import('./pages/ProductDetail')); // ✅ Dynamic route detail
 import GuestPage from './pages/GuestPage';
 import CekStok from './pages/guest/CekStok';
 
@@ -43,6 +44,8 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/users" element={<UserList />} />
+          <Route path="/products" element={<Products />} />  {/* ✅ Products list */}
+          <Route path="/products/:id" element={<ProductDetail />} /> {/* ✅ Detail product */}
 
           {/* Error Routes */}
           <Route path="/error/401" element={<ErrorPage code="401" message="Unauthorized" image={error401} />} />

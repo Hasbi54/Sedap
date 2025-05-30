@@ -2,6 +2,8 @@ import { FaPeopleCarry } from "react-icons/fa";
 import { FiBox } from "react-icons/fi"; 
 import { MdDashboardCustomize } from "react-icons/md"; 
 import { NavLink } from "react-router-dom"; // Pastikan NavLink diimpor
+import { MdFastfood } from 'react-icons/md';
+
 
 export default function ListMenu() {
     return (
@@ -43,6 +45,17 @@ export default function ListMenu() {
                     <MdDashboardCustomize className="mr-4 text-xl" /> Users
                 </NavLink>
             </li>
+            <li>
+    <NavLink
+            id="menu-4"
+            to="/products"
+            className={menuClass}
+        >
+            <MdFastfood className="mr-4 text-xl" />
+            Products
+    </NavLink>
+</li>
+            
         </ul>
     );
 }
