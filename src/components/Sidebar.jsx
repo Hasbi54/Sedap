@@ -45,6 +45,12 @@ export default function Sidebar() {
                     <span>Customers</span>
                 </NavLink>
 
+                <NavLink to="/notes" className={menuClass}>
+  <MdDashboardCustomize className="text-xl" />
+  <span>Notes</span>
+</NavLink>
+
+
                 {/* Menu Users */}
                 <NavLink to="/users" className={menuClass}>
                     <FaUsers className="text-xl" />

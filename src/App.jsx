@@ -23,6 +23,8 @@ const ErrorPage = lazy(() => import('./pages/ErrorPage'));
 const UserList = lazy(() => import('./pages/User'));
 const Products = lazy(() => import('./pages/produks'));
 const ProductDetail = lazy(() => import('./pages/ProductDetail')); // ✅ Dynamic route detail
+const Notes = lazy(() => import('./pages/auth/notes'));
+
 import GuestPage from './pages/GuestPage';
 import CekStok from './pages/guest/CekStok';
 
@@ -44,9 +46,10 @@ function App() {
           <Route path="/orders" element={<Orders />} />
           <Route path="/customers" element={<Customers />} />
           <Route path="/users" element={<UserList />} />
+          <Route path="/notes" element={<Notes />} />
           <Route path="/products" element={<Products />} />  {/* ✅ Products list */}
           <Route path="/products/:id" element={<ProductDetail />} /> {/* ✅ Detail product */}
-
+          
           {/* Error Routes */}
           <Route path="/error/401" element={<ErrorPage code="401" message="Unauthorized" image={error401} />} />
           <Route path="/error/403" element={<ErrorPage code="403" message="Forbidden" image={error403} />} />

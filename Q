@@ -1,0 +1,47 @@
+[33mcommit 4f66fdc6985697d807562864bf8c798ffa39199e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 30 09:38:14 2025 +0700
+
+    Sedap Commit
+
+[33mcommit dfc5433806341cc385945524df0b43c6479af0df[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:13:17 2025 +0700
+
+    install slick2
+
+[33mcommit 0211e974fc8e6e1042666d2e270881ed2abfa73b[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:09:56 2025 +0700
+
+    install slick
+
+[33mcommit 462ab426279056361e45cec3fa6b7bb91eeaafe5[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:07:31 2025 +0700
+
+    install icons
+
+[33mcommit 1168e160b984760e5139456cc50e95359d58bb32[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:05:08 2025 +0700
+
+    commit fix
+
+[33mcommit 23184ebd35fa1f53b90b2a4c4cb94d906217fa4e[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:03:18 2025 +0700
+
+    install package
+
+[33mcommit f27eff39730d6eb1a2087cb0d07946aa94915640[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 10:00:44 2025 +0700
+
+    main.jsx
+
+[33mcommit 6d267f121ba798a36992f7cec7fd3dd45c3ae2a4[m
+Author: Hasbi54 <hasbi23ti@mahasiswa.pcr.ac.id>
+Date:   Fri May 23 09:50:56 2025 +0700
+
+    Sedap Commit
